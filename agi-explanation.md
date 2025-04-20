@@ -275,7 +275,7 @@ Traditional AI (such as large language models) relies on statistical regularitie
 
 ---
 
-# Summary Version (One-Sentence Core):
+# Summary (One Core Sentence)
 
 Three-dimensional associative neural networks achieve true understanding, logic, and reasoning abilities, moving towards general artificial intelligence, by simulating the spatial distance, co-occurrence probability, and topological structure of Tokens to directly learn the underlying laws of the physical world.
 
